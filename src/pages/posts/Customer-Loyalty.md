@@ -1,10 +1,9 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Customer Loyalty Programs That Stick Well
 subtitle: A story about customer loyalty
-date: '2019-04-23'
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+date: 2019-04-23
+excerpt: A story about customer loyalty curabitur sed consectetur nisi. Integer
+  sit amet commodo massa.
 image: images/3.jpg
 thumb_image: images/3_thumb.jpg
 template: post
