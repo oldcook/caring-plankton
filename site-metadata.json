@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "Azimuth Theme",
   "palette": "blue",
   "header": {
     "title": "Welcome",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/images.png",
     "has_nav": true,
     "nav_links": [
       {
