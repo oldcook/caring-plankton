@@ -15,7 +15,7 @@
         "url": "/features"
       },
       {
-        "label": "Pricing",
+        "label": "Projects",
         "url": "/pricing"
       },
       {
@@ -54,7 +54,7 @@
     "tagline": "SaaS theme by Stackbit",
     "logo_img": "images/logo_alt.png",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Oldcook. All rights reserved.",
     "links": [
       {
         "label": "Made with Stackbit",
